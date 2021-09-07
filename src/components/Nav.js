@@ -7,7 +7,7 @@ import PrimaryButton from './PrimaryButton';
 function Nav() {
     return (
         <NavStyled>
-            <img src={green_logo} alt=""/>
+            <img src={green_logo} alt="" className="logo"/>
             <ul>
                 <li>
                     <a href="Home">Home</a>
@@ -33,6 +33,7 @@ const NavStyled = styled.nav`
       display: flex;
       justify-content: space-between;
       align-items:center ;
+      margin-top: -50px;
 
       ul{
         display: flex;

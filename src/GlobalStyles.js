@@ -6,7 +6,8 @@ const GlobalStyles = createGlobalStyle`
 
 :root{
     --primary-bg: #C0C9E3;
-    --font-color:#ffffff
+    --font-color:#ffffff;
+    --green-color: #219147;
 }
 
 *{

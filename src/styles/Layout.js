@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 export const OuterLayout = styled.section`
 
-padding: 5rem 12rem;
+padding: 5rem 7rem;
 `;
 
 

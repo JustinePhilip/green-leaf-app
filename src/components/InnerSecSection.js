@@ -107,9 +107,6 @@ border-radius: 15px;
         
         transition: all .5s ease-in-out;
         } */
-
-
-
     }
 
    

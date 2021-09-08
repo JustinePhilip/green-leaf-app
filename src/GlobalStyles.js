@@ -16,7 +16,7 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
     list-style: none;
     color: var(--font-color);
-    font-family: 'Roboto', sans-serif;
+    font-family: Raleway;
 }
 
 

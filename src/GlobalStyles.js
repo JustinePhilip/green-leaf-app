@@ -25,6 +25,10 @@ body{
     background-color: var(--primary-bg);
   
 }
+
+p{
+    color:var(--font-color) ;
+}
 `;
 
 export default GlobalStyles;

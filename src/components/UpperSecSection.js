@@ -1,12 +1,14 @@
 import React from 'react'
 import styled from 'styled-components'
-import SearchSection from './SearchSection';
+import InnerSecSection from './InnerSecSection';
+// import SearchSection from './SearchSection';
 // import SecSectionPicture from '../img/SecSectionPicture.png'
 
 function UpperSecSection() {
     return (
         <UpperSecStyled>
-            <SearchSection/>
+            <InnerSecSection/>
+            
             
         </UpperSecStyled>
     )

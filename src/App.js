@@ -1,5 +1,6 @@
 
 import Header from './components/Header';
+import SecondSection from './components/SecondSection';
 import {OuterLayout} from './styles/Layout'
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
    
      <OuterLayout>
        <Header/>
+       <SecondSection/>
        
      </OuterLayout>
     

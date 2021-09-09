@@ -41,6 +41,10 @@ const NavStyled = styled.nav`
         /* padding: 20px; */
         width:30%;
       }
+
+      .logo{
+          cursor: pointer;
+      }
 `;
 
 export default Nav

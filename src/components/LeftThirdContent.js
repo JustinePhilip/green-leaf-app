@@ -5,6 +5,10 @@ function LeftThirdContent() {
     return (
         <LeftThirdStyled>
             <div className="left"></div>
+            3&4 bedroom terrace, all rooms en suite, 
+            24hrs uninterrupted power, treated and potable water, 
+            road fully tared to the houses. serene and environment to 
+            give you the comfort and security you desire.
             
         </LeftThirdStyled>
     )
